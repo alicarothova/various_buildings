@@ -1,2 +1,2 @@
 # various_buildings
-exercises and stuff
+things and stuff
